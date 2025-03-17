@@ -1,0 +1,10 @@
+[
+    {
+        "name": "JavaScript Alert Example",
+        "code": "alert('Hello, World!');"
+    },
+    {
+        "name": "Basic HTML Template",
+        "code": "<!DOCTYPE html>\\n<html>\\n<head>\\n<title>My Page</title>\\n</head>\\n<body>\\nHello, world!\\n</body>\\n</html>"
+    }
+]
